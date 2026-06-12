@@ -1,5 +1,5 @@
 ![Elbow Curve](https://github.com/bittubiral/K-Means-Clustering/blob/main/Screenshot%202026-06-12%20170224.png?raw=true)
-![cluster scatter3D plot] (https://github.com/bittubiral/K-Means-Clustering/blob/main/3Dplot.png?raw=true)
+![cluster scatter3D plot](https://github.com/bittubiral/K-Means-Clustering/blob/main/3Dplot.png?raw=true)
 
 Cluster Description
 
